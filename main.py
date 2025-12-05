@@ -21,7 +21,33 @@ except Exception as e:
 # --- 2. DATA REFERENSI ---
 LIST_UNIT_KERJA = [
     "DDK", "DGT", "DIK", "DIT", "DJK", "DMM", "DMP", "DMU", "DOC", "DPI", 
-    "DST", "DTC", "IPR", "KJF", "KPS", "KRH", "KRR", "KRS", "KRU", "KSI", "KST"
+    "DST", "DTC", "IPR", "KJF", "KPS", "KRH", "KRR", "KRS", "KRU", "KSI", "KST",
+    "Balai Besar Meteorologi Klimatologi dan Geofisika Wil. I – Medan",
+    "Balai Besar Meteorologi Klimatologi dan Geofisika Wil. II – Tangerang Selatan",
+    "Balai Besar Meteorologi Klimatologi dan Geofisika Wil. III – Badung",
+    "Balai Besar Meteorologi Klimatologi dan Geofisika Wil. IV – Makassar",
+    "Balai Besar Meteorologi Klimatologi dan Geofisika Wil. IV – Jayapura",
+    "Stasiun Geofisika Kelas I Padang Panjang",
+    "Stasiun Meteorologi Kelas I Kualanamu - Deli Serdang",
+    "Stasiun Klimatologi Kelas IV Riau",
+    "Stasiun Meteorologi Kelas II Maritim Belawan – Medan",
+    "Stasiun Klimatologi Kelas I Jawa Barat",
+    "Stasiun Meteorologi Kelas II Maritim Tanjung Emas – Semarang",
+    "Stasiun Geofisika Kelas I Sleman",
+    "Stasiun Meteorologi Kelas I Soekarno Hatta – Tangerang",
+    "Stasiun Geofisika Kelas II Pasuruan",
+    "Stasiun Meteorologi Kelas I Juanda – Sidoarjo",
+    "Stasiun Klimatologi Kelas I Kalimantan Selatan",
+    "Stasiun Meteorologi Kelas II Maritim Tanjung Perak - Surabaya",
+    "Stasiun Geofisika Kelas II Denpasar",
+    "Stasiun Meteorologi Kelas II Maritim Bitung",
+    "Stasiun Geofisika Kelas I Ambon",
+    "Stasiun Klimatologi Kelas IV Gorontalo",
+    "Stasiun Meteorologi Kelas I Sultan Hasanuddin – Makassar",
+    "Stasiun Meteorologi Kelas III Mopah – Merauke",
+    "Stasiun Meteorologi Kelas I Domine Eduard Osok – Sorong",
+    "Stasiun Meteorologi Kelas I Sentani – Jayapura",
+    "Stasiun Pemantau Atmosfer Global Puncak Vihara Klademak - Sorong"
 ]
 
 PERTANYAAN_STORAGE = [
